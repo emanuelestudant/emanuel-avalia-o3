@@ -1,0 +1,28 @@
+body{
+    background-color: #222;
+    color: white;
+}
+header h1{
+    text-align: center;
+    font-size: 3rem;
+    margin: 2rem 0;
+}
+nav ul{
+     list-style: none;
+     display: flex;
+     font-size:1.5rem;
+        justify-content: center;
+}
+nav ul li{
+    margin-right: 2rem;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+nav ul li a:hover{
+    color: #ffff00;
+}
+main{
+    text-align: center;
+}
